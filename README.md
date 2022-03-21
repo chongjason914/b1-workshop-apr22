@@ -2,7 +2,7 @@
 
 ## Purpose 
 This workshop aims to help the project teams at [BusinessOne University of Melbourne](https://www.businessoneunimelb.com/) learn and apply basic data cleaning
-techniques using Microsoft Excel, as well as introduce Power BI as a tool to build interactive dashboards to summarise key insights in a dataset.  
+techniques using Microsoft Excel, as well as introduce Microsoft Power BI as a tool to build interactive dashboards to summarise key insights in a dataset.  
 
 ## Microsoft Excel
 - Resize columns 

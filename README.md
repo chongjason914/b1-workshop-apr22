@@ -16,7 +16,7 @@ techniques using Microsoft Excel, as well as introduce Microsoft PowerBI as a to
 - Extract pack size from product name using flash fill 
 - Extract first word from product name using LEFT and FIND functions 
 - Apply filters to columns 
-- Perform data checks including inconsistent product names, outliers and missing date 
+- Perform data checks including inconsistent product names, outliers, and missing date 
 - Create customer table using UNIQUE and VLOOKUP functions 
 - Pivot table and pivot chart 
 

@@ -31,3 +31,6 @@ techniques using Microsoft Excel, as well as introduce Microsoft Power BI as a t
 - Enable/disable interactions between slicer and other visuals on a report
 - Group together visuals in the selection pane 
 - Publish report online 
+
+## Workshop Recording
+Find the full recording of the workshop on my YouTube channel [here](https://www.youtube.com/watch?v=ZeaAuSb65D0&t=8s).

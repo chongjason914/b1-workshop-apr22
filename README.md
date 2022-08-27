@@ -17,8 +17,6 @@ techniques using Microsoft Excel, as well as introduce Microsoft Power BI as a t
 - Extract first word from product name using LEFT and FIND functions 
 - Apply filters to columns 
 - Perform data checks including inconsistent product names, outliers, and missing date 
-- Create customer table using UNIQUE and VLOOKUP functions 
-- Pivot table and pivot chart 
 
 ## Microsoft Power BI
 - Import Excel file into PowerBI 
@@ -29,8 +27,7 @@ techniques using Microsoft Excel, as well as introduce Microsoft Power BI as a t
 - Customise filters on a visual 
 - Tooltips
 - Enable/disable interactions between slicer and other visuals on a report
-- Group together visuals in the selection pane 
-- Publish report online 
+- Group together visuals in the selection pane  
 
 ## Workshop Recording
 Find the full recording of the workshop on my YouTube channel [here](https://www.youtube.com/watch?v=ZeaAuSb65D0&t=8s).
